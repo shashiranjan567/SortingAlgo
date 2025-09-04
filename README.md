@@ -1,6 +1,7 @@
-# [Live](https://im-kaushal.github.io/SortingAlgo/)
+# [Live]([https://im-kaushal.github.io/SortingAlgo/](https://github.com/shashiranjan567/SortingAlgo))
 
-![image](https://user-images.githubusercontent.com/70936174/187361449-499181d6-de80-467a-928d-a8c4ddd0756d.png)
+![image](<img width="1912" height="918" alt="image" src="https://github.com/user-attachments/assets/fb29bef3-ddb3-4a15-bcc3-48f002e6abc3" />
+)
 <br>
  **Worked on this project while doing the GFG DSA course.**
  - **Objective:** How sorting algorithms work in practice. <br>
