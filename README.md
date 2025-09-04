@@ -1,7 +1,6 @@
 # [Live]([https://im-kaushal.github.io/SortingAlgo/](https://github.com/shashiranjan567/SortingAlgo))
 
-![image](<img"https://github.com/user-attachments/assets/c840625b-434b-4b74-81e8-0f08fb1e6b6f" />
-" />
+![image](<img"https://github.com/user-attachments/assets/c840625b-434b-4b74-81e8-0f08fb1e6b6f" /
 )
 <br>
  **Worked on this project while doing the GFG DSA course.**
